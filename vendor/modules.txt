@@ -648,6 +648,7 @@ k8s.io/apimachinery/pkg/api/validate
 k8s.io/apimachinery/pkg/api/validate/constraints
 k8s.io/apimachinery/pkg/api/validate/content
 k8s.io/apimachinery/pkg/api/validation
+k8s.io/apimachinery/pkg/api/validation/path
 k8s.io/apimachinery/pkg/apis/asn1
 k8s.io/apimachinery/pkg/apis/meta/internalversion
 k8s.io/apimachinery/pkg/apis/meta/internalversion/scheme
